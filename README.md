@@ -9,8 +9,13 @@ Bluetooth name setting in EEPROM
 BUTTON SETTING:
 
 Key1 [prev] Previous song
+
 Key2 [mode] Select sd or bt mode
+
 Key3 [next] Next song
+
 Key4 [stop] Stop or Play
+
 Key5 [vol+] adjust volume +
+
 Key6 [vol-] adjust volume -
